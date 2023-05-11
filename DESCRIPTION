@@ -1,0 +1,22 @@
+Package: LUthemes
+Title: Lancaster University 'ggplot2' styling
+Version: 0.0.1
+Authors@R: 
+    person(given = "Nicola",
+           family = "Rennie",
+           role = c("aut", "cre"),
+           email = "n.rennie@lancaster.ac.uk")
+Description: Provides styling ggplot2 graphics with Lancaster University 
+  colours. Unofficial theme, not endorsed by the university.
+Imports:
+    ggplot2,
+    graphics,
+    grDevices,
+    magrittr,
+    purrr,
+    showtext,
+    sysfonts
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
+License: file LICENSE
