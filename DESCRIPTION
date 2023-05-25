@@ -1,6 +1,6 @@
 Package: LUthemes
 Title: Lancaster University 'ggplot2' styling
-Version: 0.0.1
+Version: 0.0.2
 Authors@R: 
     person(given = "Nicola",
            family = "Rennie",
