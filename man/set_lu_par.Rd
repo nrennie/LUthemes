@@ -4,19 +4,10 @@
 \alias{set_lu_par}
 \title{Set LU base R graphical parameters}
 \usage{
-set_lu_par(
-  family = "Roboto",
-  font.main = 2,
-  adj = 0,
-  mar = c(5, 3, 3, 2.5),
-  bty = "n",
-  ...
-)
+set_lu_par(family = "Roboto", adj = 0, mar = c(5, 3, 3, 2.5), bty = "n", ...)
 }
 \arguments{
-\item{family}{Font used for all text elements except title. Default "Roboto".}
-
-\item{font.main}{Font used for title. Default 2.}
+\item{family}{Font used for all text elements. Default "Roboto".}
 
 \item{adj}{Alignment of text for title. Default 0.}
 
